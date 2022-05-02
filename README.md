@@ -5,3 +5,16 @@
 - 📫 How to reach me ...
 
 ![header](https://user-images.githubusercontent.com/91204815/166243370-5d1b5a41-1dfe-45f5-a709-0d829a5d0cb5.png)
+
+⚡ Technologies
+These are some of the technologies and tools that I work with:
+
+Programming Languages	            
+Frameworks	   
+Databases	    
+Hosting/SaaS/PaaS	 
+Automate, Deploy, Platform & Tools	    
+Testing	 
+Operating Systems	  
+Markup/Markdown	  
+Others	 

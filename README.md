@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache2-FCC624?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-4EA94B?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 <h2>Databases</h2>
 <p>
